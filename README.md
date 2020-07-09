@@ -4,6 +4,7 @@ A Swift written floating window view for iOS.
 
 ## Screenshot
 
+<img src="https://github.com/j796160836/FloatingWindow_ios/blob/master/screenshots/ios.gif?raw=true" width="280" />
 
 ## Run the example
 
@@ -22,7 +23,7 @@ then opens `FloatingWindowInApp.xcworkspace` for sample project.
 Use Xcode interface builder to build a view within a view.  
 Like this.
 
-
+<img src="https://github.com/j796160836/FloatingWindow_ios/blob/master/screenshots/xcode.png?raw=true" height="280" />
 
 It will use first child of layout element for floatingWindow.
 
